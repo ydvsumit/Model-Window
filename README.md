@@ -6,7 +6,11 @@ The Open Modal Window project is a simple, beginner-friendly webpage built using
 
 - When a user clicks on any button, a popup modal window appears on the UI displaying some relevant information.
 
-- To close the modal, the user has three options: - Click close icon on the top right side of the modal window area. - Click outside the modal window area. - Press ESC key on the keyboard.
+- To close the modal, the user has three options:
+
+  - Click close icon on the top right side of the modal window area.
+  - Click outside the modal window area.
+  - Press ESC key on the keyboard.
 
 - The modals are styled using CSS for a clean and responsive design, while JavaScript handles the opening and closing logic, event listeners, and interactions.
 
